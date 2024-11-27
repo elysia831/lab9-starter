@@ -10,8 +10,8 @@ int main() {
     for (int i = 0; i < ROWS; i++) {
         for (int j = 0; j <= COLS; j++) {
             if (j >= COLS) {
-                //printf("error: arr[%d][%d] out of bounds\n", i, j);
-                fprintf(stderr, "error: arr[%d][%d] out of bounds\n", i, j);
+                printf("error: arr[%d][%d] out of bounds\n", i, j);
+                //fprintf(stderr, "error: arr[%d][%d] out of bounds\n", i, j);
                 break;
             }
             arr[i][j] = (i*COLS) + j;
