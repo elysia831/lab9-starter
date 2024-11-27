@@ -1,0 +1,10 @@
+error: arr[0][25] out of bounds
+error: arr[1][25] out of bounds
+error: arr[2][25] out of bounds
+error: arr[3][25] out of bounds
+error: arr[4][25] out of bounds
+error: arr[5][25] out of bounds
+error: arr[6][25] out of bounds
+error: arr[7][25] out of bounds
+error: arr[8][25] out of bounds
+error: arr[9][25] out of bounds
